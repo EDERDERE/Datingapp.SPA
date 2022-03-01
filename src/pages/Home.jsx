@@ -3,7 +3,7 @@ import React from 'react'
 
 const Home = () => (
   <section className="Home">
-    <h3>Hello Home</h3>
+    <h3>Hello Homasdasde</h3>
   </section>
 )
 
