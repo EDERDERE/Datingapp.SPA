@@ -136,7 +136,7 @@ function Categorias() {
                     onClick={() => seleccionarCategorias(item, "Eliminar")}
                   >
                     Eliminar
-                  </button> */}
+                  </button> */} {/*btn eliminar*/}
                 </td>
               </tr>
             ))}
